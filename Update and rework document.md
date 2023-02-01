@@ -1,3 +1,3 @@
-Version 1 on 01.02.2023
-Update note:
+# **Version 1 on 01.02.2023**
+## Update note:
 Error: Could not register service workers: NotSupportedError: Failed to register a ServiceWorker for scope ('https://0lt1lhemm03rtp7nbn7aqla8609frs3tjfqvkcu6rrd39hq7d2ub.vscode-cdn.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/contrib/webview/browser/pre/') with script ('https://0lt1lhemm03rtp7nbn7aqla8609frs3tjfqvkcu6rrd39hq7d2ub.vscode-cdn.net/stable/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/contrib/webview/browser/pre/service-worker.js?v=4&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&remoteAuthority=codespaces+projectduebonn-shiny-space-system-x6q9rvjvg4g396w4'): The user denied permission to use Service Worker..
