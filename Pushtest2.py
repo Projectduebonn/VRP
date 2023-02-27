@@ -10,4 +10,5 @@ print([random.randint(1,100) for i in range(10)])
 
 
 print("pushtest1")
+print("pushtest2")
 
